@@ -5,7 +5,12 @@ import {Redirect} from 'react-router-dom'
 import './index.css'
 
 class LoginForm extends Component {
-  state = {username: '', password: '', errorMsg: '', showSubmitError: false}
+  state = {
+    username: 'rahul',
+    password: 'rahul@2021',
+    errorMsg: '',
+    showSubmitError: false,
+  }
 
   onChangeUsername = e => {
     this.setState({username: e.target.value})
