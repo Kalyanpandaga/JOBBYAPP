@@ -6,7 +6,7 @@ A fully functional job search portal built with **React JS**, implementing featu
 
 ## 🔗 Live Demo
 
-👉 [Visit Live App](https://jobshunt.ccbp.tech/)
+👉 [Visit Live App](https://jobbyapp-l536.onrender.com/)
 
 ## 📂 GitHub Repository
 
